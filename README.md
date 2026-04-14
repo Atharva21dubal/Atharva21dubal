@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Atharva 👋
 
-<!--
-**Atharva21dubal/Atharva21dubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Computer Applications Student
+💻 Passionate about Web Development, Data Analysis & Software Development
+🚀 Building real-world projects to solve problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Learning **Cloud Computing, APIs & Backend Development, Web Development**
+* 👨‍💻 Interested in **Full Stack Development, Data Analysis**
+* 📍 Based in Mumbai, India
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages
+
+* Java, C, Python, JavaScript
+
+🌐 Web Development
+
+* HTML, CSS, Bootstrap
+
+🗄️ Database
+
+* MySQL
+
+⚙️ Tools & Technologies
+
+* Git, GitHub, VS Code, Visual Studio
+
+---
+
+## 🚀 Projects
+
+### 🍔 Food Ordering Website
+
+* Full-stack web application
+* Add to cart, billing & login system
+* ASP.NET Web Forms + SQL Database
+
+---
+
+### 🔐 Notes & Password Manager
+
+* Secure password storage system
+* CRUD operations using Hibernate/JPA
+* Java Servlets + JSP
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Atharva21dubal\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [atharvadubal21@gmail.com](mailto:atharvadubal21@gmail.com)
+
+---
+
+⭐ *“Always learning, always building.”*
