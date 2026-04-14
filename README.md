@@ -52,6 +52,11 @@
 
 ---
 
+### Supplier Data Analysis (Power BI)
+
+* This project analyzes supplier data using Power BI to generate insights on performance, delivery efficiency, and cost trends.
+* Tools Used: Power BI, Power Query, DAX
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Atharva21dubal\&show_icons=true)
